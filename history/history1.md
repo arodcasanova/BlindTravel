@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ประวัติคุณ เอกลักษณ์ พรมชาติ
+title:
 permalink: /history1/
 ---
 เอกลักษณ์ พรมชาติ
